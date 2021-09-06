@@ -1,0 +1,6 @@
+
+{
+    "mongoURI": "mongodb://localhost/test",
+    "flutter__secret": "flutter__secret"
+    }
+    
