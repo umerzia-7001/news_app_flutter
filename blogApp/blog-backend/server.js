@@ -21,7 +21,7 @@ const port = process.env.PORT || 5000;
 
 mongoose
   .connect(
-    "mongodb+srv://umerzia:umer7001@cluster0.2xawq.mongodb.net/chat-flutter?retryWrites=true&w=majority",
+    "mongodb+srv://MONGOURI", // place your MongoDB uri here !!!
     {
       useUnifiedTopology: true,
       useNewUrlParser: true,
